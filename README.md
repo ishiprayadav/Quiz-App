@@ -1,4 +1,4 @@
-# Quizz App
+# Quiz App
 
 My first simple App built using Google's Flutter framework. 
 
